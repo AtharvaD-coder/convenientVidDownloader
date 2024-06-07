@@ -5,7 +5,7 @@ A web application that allows users to download videos from various sources by e
 
 
 ## Tech Stack
- [![My Skills](https://skillicons.dev/icons?i=next,react,typescript,tailwind,html,docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=next,flask,python,react,typescript,tailwind,html,docker)](https://skillicons.dev)
 
 
 ## Run Locally
